@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class PhysicalButtonPressed : MonoBehaviour
-{
+public class PhysicalButtonPressed : MonoBehaviour {
     public UnityEvent onPressed;
     protected bool lastState = false;
 

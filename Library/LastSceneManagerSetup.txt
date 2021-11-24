@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/EscapeRoom/Scenes/Module3_End.unity
+- path: Assets/EscapeRoom/Scenes/InitialScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

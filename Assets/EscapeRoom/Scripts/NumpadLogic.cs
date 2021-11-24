@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using UnityEngine.Events;
+using TMPro;
 
-public class NumpadLogic : MonoBehaviour
-{
+public class NumpadLogic : MonoBehaviour {
+
     public string winCode = "4236";
     protected string currentCode = "0000";
     public UnityEvent onWin;
-    public TMPro.TextMeshProUGUI display;
+    public TextMeshProUGUI display;
 
 
     void Awake() {
