@@ -61,6 +61,74 @@
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\StartCrashlytics.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\HandsActiveChecker.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSkinnedMeshRenderPBSV2Component.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSettings.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughProjectionSurface.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\GazeTarget.cs" />
+    <Compile Include="Assets\Oculus\Voice\Demo\Scripts\BuiltinDemo\TimerDisplay.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSkinnedMeshRenderComponent.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\CowController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\HandMeshUI.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\RoomManager.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\HandPose.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableTool.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\EnableUnpremultipliedAlpha.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\NativeVideoPlayer.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimVisualLaser.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MoviePlayerSample.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportDestination.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainButtonVisualController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\GrabObject.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\SimpleCapsuleWithStickMovement.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\AugmentedObject.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableRegistry.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\HandedInputSelector.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabbable.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\Utils\Pose.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandlerHMD.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandler.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\GrabManager.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\CharacterCameraConstraint.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\LocalAvatar\Scripts\GazeTargetSpawner.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionWarp.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\VectorUtil.cs" />
+    <Compile Include="Assets\EscapeRoom\Scripts\NumpadLogic.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarAsset.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\SocialPlatformManager.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\PauseOnInputLoss.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableToolsCreator.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\P2PManager.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\DebugUIBuilder.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\SampleUI.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportSupport.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\Hand.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandler.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\RemoteLoopback\Scripts\RemoteLoopbackManager.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\LocomotionSampleSupport.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\Flashlight.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\CharacterCapsule.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerPhysical.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainTrack.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabber.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarLocalDriver.cs" />
+    <Compile Include="Assets\EscapeRoom\Scripts\PhysicalButtonPressed.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarBase.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarAssetTexture.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Interactable.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\TouchControllers\TouchController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCar.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughSurface.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportPoint.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\FingerTipPokeTool.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Samples\GripPoses\Scripts\PoseEditHelper.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerNavMesh.cs" />
+    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarTouchController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\ControllerBoxController.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\UI\CustomDebugUI.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\ButtonDownListener.cs" />
+    <Compile Include="Assets\Oculus\Voice\Demo\Scripts\UIShapesDemo\ColorChanger.cs" />
+    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandlerLaser.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughBrush.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughController.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatar.cs" />
@@ -68,121 +136,60 @@
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ColliderZone.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MoviePlayerSampleControls.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\WindmillController.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSettings.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SPPquad.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\LaserPointer.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransition.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSDKCAPI.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughProjectionSurface.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\GazeTarget.cs" />
     <Compile Include="Assets\Oculus\Voice\Demo\Scripts\BuiltinDemo\WitActivation.cs" />
-    <Compile Include="Assets\Oculus\Voice\Demo\Scripts\BuiltinDemo\TimerDisplay.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\SelectionCylinder.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\PanelHMDFollower.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSkinnedMeshRenderComponent.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\CowController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\HandMeshUI.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\RoomManager.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\AppDeeplinkUI.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSDKManager.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\DebugUI\DebugUISample.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\HandPose.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableTool.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\BrushController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\EnableUnpremultipliedAlpha.cs" />
     <Compile Include="Assets\Oculus\Voice\Demo\Scripts\BuiltinDemo\TimerController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android\NativeVideoPlayer.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonTriggerZone.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimVisualLaser.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\AnalyticsUI.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MoviePlayerSample.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportDestination.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainButtonVisualController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\GrabObject.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\BoneCapsuleTriggerLogic.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\SimpleCapsuleWithStickMovement.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\ColorGrabbable.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\AugmentedObject.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\MediaPlayerImage.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Scripts\DistanceGrabberSample.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableRegistry.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\HandedInputSelector.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabbable.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\Utils\Pose.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\HandsManager.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSettingsEditor.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandlerHMD.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandler.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SceneSampler.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\GrabManager.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarPacket.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerNode.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\CharacterCameraConstraint.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\GrabbableCrosshair.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarAssetMesh.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainLocomotive.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarRenderComponent.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandlerThumbstick.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\LocalAvatar\Scripts\GazeTargetSpawner.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCrossingController.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\StartScene\Scripts\StartMenu.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionWarp.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\VectorUtil.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\HandMeshMask.cs" />
-    <Compile Include="Assets\EscapeRoom\Scripts\NumpadLogic.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarAsset.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarBody.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionBlink.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\SocialPlatformManager.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\PinchStateModule.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarSkinnedMeshRenderPBSComponent.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\PauseOnInputLoss.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableToolsCreator.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarLogger.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\WindmillBladesController.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarRemoteDriver.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarHand.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\P2PManager.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DebugUI\Scripts\DebugUIBuilder.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportInputHandlerTouch.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\VoipManager.cs" />
     <Compile Include="Assets\Oculus\Voice\Demo\Scripts\UIShapesDemo\Instructions.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Firebase\SampleUI.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportSupport.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\ButtonController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\CustomHands\Scripts\Hand.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandler.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\RemoteLoopback\Scripts\RemoteLoopbackManager.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTransitionInstant.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\RemotePlayer.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\LocomotionSampleSupport.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\InteractableToolView.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\Flashlight.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\InteractableToolsInputRouter.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Scripts\CharacterCapsule.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\ObjectManipulator.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerPhysical.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts\DistanceGrabber.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainTrack.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\OverlayPassthrough.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarLocalDriver.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionTeleport.cs" />
     <Compile Include="Assets\Oculus\Voice\Demo\Scripts\InteractionHandler.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarBase.cs" />
-    <Compile Include="Assets\EscapeRoom\Scripts\PhysicalButtonPressed.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarAssetTexture.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Interactable.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\TouchControllers\TouchController.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Scripts\OVROverlayCanvas.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrainCar.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughSurface.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportOrientationHandler360.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandler.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\FlashlightController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportPoint.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\FingerTipPokeTool.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Samples\GripPoses\Scripts\PoseEditHelper.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\RayToolView.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\AvatarGallery\Scripts\OvrAvatarTestDriver.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarDriver.cs" />
@@ -190,18 +197,11 @@
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarComponent.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\RayTool.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools\FingerTipPokeToolView.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandlerNavMesh.cs" />
     <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarTextureCopyManager.cs" />
-    <Compile Include="Assets\Oculus\Avatar\Scripts\OvrAvatarTouchController.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\OVROverlay\Scripts\OVROverlaySample.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\ControllerBoxController.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Usage\AppDeeplink\UI\CustomDebugUI.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportTargetHandler.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\PassthroughStyler.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Video\Scripts\ButtonDownListener.cs" />
-    <Compile Include="Assets\Oculus\Voice\Demo\Scripts\UIShapesDemo\ColorChanger.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts\SelectivePassthroughExperience.cs" />
-    <Compile Include="Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\TeleportAimHandlerLaser.cs" />
     <Compile Include="Assets\Oculus\Avatar\Samples\SocialStarter\Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts\TrackSegment.cs" />
   </ItemGroup>
@@ -515,6 +515,21 @@
     </Reference>
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>C:\Data\UnityInstallations\2021.2.3f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.MemberClearanceMethod">
+      <HintPath>Library\PackageCache\io.extendreality.malimbe@9.6.6\Runtime\Malimbe.MemberClearanceMethod.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.XmlDocumentationAttribute">
+      <HintPath>Library\PackageCache\io.extendreality.malimbe@9.6.6\Runtime\Malimbe.XmlDocumentationAttribute.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.BehaviourStateRequirementMethod">
+      <HintPath>Library\PackageCache\io.extendreality.malimbe@9.6.6\Runtime\Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.MemberChangeMethod">
+      <HintPath>Library\PackageCache\io.extendreality.malimbe@9.6.6\Runtime\Malimbe.MemberChangeMethod.dll</HintPath>
+    </Reference>
+    <Reference Include="Malimbe.PropertySerializationAttribute">
+      <HintPath>Library\PackageCache\io.extendreality.malimbe@9.6.6\Runtime\Malimbe.PropertySerializationAttribute.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>C:\Data\UnityInstallations\2021.2.3f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -882,14 +897,125 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>C:\Data\UnityInstallations\2021.2.3f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
+    <Reference Include="Tilia.Trackers.PseudoBody.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.Controllables.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.PointerInteractors.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Indicators.ObjectPointers.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Visuals.Tooltip.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Locomotors.Teleporter.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Indicators.SpatialTargets.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Locomotors.MovementAmplifier.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.MovementAmplifier.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Input.CombinedActions.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.CameraRigs.XRFramework.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.CameraRigs.XRFramework.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.CameraRigs.TrackedAlias.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.DeveloperTools.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.SpatialButtons.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.SpatialButtons.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.SpatialButtons.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Visuals.InteractableHighlighter.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.InteractableHighlighter.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.CameraRigs.TrackedAlias.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.CameraRigs.TrackedAlias.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Zinnia.Runtime">
+      <HintPath>Library\ScriptAssemblies\Zinnia.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.Interactables.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Input.CombinedActions.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Input.CombinedActions.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Supyrb.Editor">
+      <HintPath>Library\ScriptAssemblies\Supyrb.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Oculus.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Indicators.SpatialTargets.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Indicators.SpatialTargets.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.SDK.OculusIntegration.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.SDK.OculusIntegration.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.DeveloperTools.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.DeveloperTools.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Mutators.ObjectFollower.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Mutators.ObjectFollower.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Visuals.Tooltip.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.Tooltip.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Visuals.CollisionFader.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.CollisionFader.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Indicators.ObjectPointers.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Indicators.ObjectPointers.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Output.InteractorHaptics.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Output.InteractorHaptics.Unity.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+    <Reference Include="Tilia.Locomotors.TeleportTargets.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.TeleportTargets.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Utilities.ObjectStateSwitcher.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Utilities.ObjectStateSwitcher.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
@@ -903,26 +1029,53 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
+    <Reference Include="Tilia.Locomotors.Climbing.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.Controllables.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.Controllables.Unity.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Mutators.CollisionIgnorer.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Mutators.CollisionIgnorer.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
       <HintPath>Library\ScriptAssemblies\Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+    <Reference Include="Tilia.Locomotors.AxisMove.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+    <Reference Include="Tilia.Trackers.ColliderFollower.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    <Reference Include="Tilia.Output.InteractorHaptics.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Output.InteractorHaptics.Unity.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
+    <Reference Include="Tilia.Locomotors.Teleporter.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.Teleporter.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.SnapZone.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Zinnia.Editor">
+      <HintPath>Library\ScriptAssemblies\Zinnia.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.SnapZone.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.SnapZone.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Trackers.ColliderFollower.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Trackers.ColliderFollower.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Utilities.ObjectStateSwitcher.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Utilities.ObjectStateSwitcher.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Locomotors.Climbing.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.Climbing.Unity.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
@@ -930,24 +1083,41 @@
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.Management">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+    <Reference Include="Tilia.Visuals.InteractableHighlighter.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.InteractableHighlighter.Unity.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.Oculus.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.Oculus.Editor.dll</HintPath>
+    <Reference Include="Tilia.Trackers.PseudoBody.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Trackers.PseudoBody.Unity.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+    <Reference Include="Tilia.Trackers.ObscuranceTracker.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Trackers.ObscuranceTracker.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Oculus">
       <HintPath>Library\ScriptAssemblies\Unity.XR.Oculus.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEditor.SpatialTracking">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.Interactables.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.Interactables.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Input.UnityInputSystem.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Input.UnityInputSystem.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Interactions.PointerInteractors.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Interactions.PointerInteractors.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Locomotors.MovementAmplifier.Unity.Editor">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.MovementAmplifier.Unity.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Locomotors.AxisMove.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Locomotors.AxisMove.Unity.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Tilia.Visuals.CollisionFader.Unity.Runtime">
+      <HintPath>Library\ScriptAssemblies\Tilia.Visuals.CollisionFader.Unity.Runtime.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{ED4701D7-9E1B-C3A3-B39A-0E0C84E1BF85}</Project>
-      <Name>Oculus.VR.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKEditor.csproj">
       <Project>{BEE3839B-DDD6-6FD5-D098-95E30364F653}</Project>
       <Name>AssistantCoreSDKEditor</Name>
@@ -955,14 +1125,6 @@
     <ProjectReference Include="Oculus.AudioManager.csproj">
       <Project>{CEEE7736-896F-6223-9C84-FDC01482FE8B}</Project>
       <Name>Oculus.AudioManager</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{8D1338AE-DDDC-7A8E-C8CA-628A49B522E9}</Project>
-      <Name>Oculus.VR.Scripts.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.Spatializer.csproj">
-      <Project>{30EA67FC-C1F7-B2A1-14B6-98163B09BD07}</Project>
-      <Name>Oculus.Spatializer</Name>
     </ProjectReference>
     <ProjectReference Include="AssistantCoreSDKRuntime.csproj">
       <Project>{4F62FF21-3450-9D11-1580-455832498F20}</Project>
@@ -976,14 +1138,6 @@
       <Project>{6408BEC6-409E-D901-6F86-B1345CC8EC44}</Project>
       <Name>Facebook.WitAI</Name>
     </ProjectReference>
-    <ProjectReference Include="VoiceSDK.Editor.csproj">
-      <Project>{D74FBE7A-1BBE-F807-5688-ECA3891FA371}</Project>
-      <Name>VoiceSDK.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Facebook.Wit.Editor.csproj">
-      <Project>{2AF954C4-6102-74ED-D5EE-793530E86811}</Project>
-      <Name>Facebook.Wit.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
       <Project>{858BF454-AAA4-B513-1D9F-D4DC55BEE850}</Project>
       <Name>Oculus.VR</Name>
@@ -996,9 +1150,33 @@
       <Project>{66E8DB19-385E-A636-176C-DFBA5AB21F07}</Project>
       <Name>Oculus.Spatializer.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Editor.csproj">
+      <Project>{ED4701D7-9E1B-C3A3-B39A-0E0C84E1BF85}</Project>
+      <Name>Oculus.VR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
+      <Project>{8D1338AE-DDDC-7A8E-C8CA-628A49B522E9}</Project>
+      <Name>Oculus.VR.Scripts.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.Spatializer.csproj">
+      <Project>{30EA67FC-C1F7-B2A1-14B6-98163B09BD07}</Project>
+      <Name>Oculus.Spatializer</Name>
+    </ProjectReference>
+    <ProjectReference Include="VoiceSDK.Editor.csproj">
+      <Project>{D74FBE7A-1BBE-F807-5688-ECA3891FA371}</Project>
+      <Name>VoiceSDK.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Facebook.Wit.Editor.csproj">
+      <Project>{2AF954C4-6102-74ED-D5EE-793530E86811}</Project>
+      <Name>Facebook.Wit.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Oculus.LipSync.Editor.csproj">
       <Project>{517C9EBF-EAAD-3793-C062-E6A1AC56DA86}</Project>
       <Name>Oculus.LipSync.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Oculus.LipSync.csproj">
+      <Project>{81DD32F3-43C5-0A46-DFC7-BF1CE185F517}</Project>
+      <Name>Oculus.LipSync</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.csproj">
       <Project>{EFB25F59-2D53-59B1-CE00-B29CFE69C52A}</Project>
@@ -1007,10 +1185,6 @@
     <ProjectReference Include="VoiceSDK.Runtime.csproj">
       <Project>{B997EA49-EA88-FE54-0717-2BBFE786A01F}</Project>
       <Name>VoiceSDK.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Oculus.LipSync.csproj">
-      <Project>{81DD32F3-43C5-0A46-DFC7-BF1CE185F517}</Project>
-      <Name>Oculus.LipSync</Name>
     </ProjectReference>
     <ProjectReference Include="Oculus.Platform.Editor.csproj">
       <Project>{31540D16-6B9D-69D7-1E73-94C031117E8C}</Project>
