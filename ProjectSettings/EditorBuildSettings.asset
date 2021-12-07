@@ -6,10 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/EscapeRoom/Scenes/Final.unity
-    guid: 14ee69e0d4786a54a8fb49c6ae435b38
+    path: Assets/EscapeRoom/Scenes/InitialScene.unity
+    guid: 0d00dff5ff78828428b1b1c41abef52c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1da3951dd022fd44eb3e28547661fce1,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 800f7226d1299434e9f4c95341185e58,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0cc9b138edff9b84aa560c04e7a76d5d,
       type: 2}

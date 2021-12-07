@@ -1,3 +1,6 @@
+You can find all parts of this tutorial on YouTube:
+[https://www.youtube.com/playlist?list=PLOIYTfRd0Ho4R4ssNqabu9Ie3hI-ELQaJ](https://www.youtube.com/playlist?list=PLOIYTfRd0Ho4R4ssNqabu9Ie3hI-ELQaJ)
+
 Oculus Examples License
 Copyright © Facebook Technologies, LLC and its affiliates. All rights reserved.
 
