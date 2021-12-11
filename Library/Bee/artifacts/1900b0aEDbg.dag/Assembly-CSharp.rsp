@@ -416,6 +416,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Zinnia.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Zinnia.Runtime.ref.dll"
 "Assets/EscapeRoom/Scripts/NumpadLogic.cs"
+"Assets/EscapeRoom/Scripts/PauseMenuLogic.cs"
 "Assets/EscapeRoom/Scripts/PhysicalButtonPressed.cs"
 "Assets/Oculus/Avatar/Samples/AvatarGallery/Scripts/OvrAvatarTestDriver.cs"
 "Assets/Oculus/Avatar/Samples/GripPoses/Scripts/PoseEditHelper.cs"
