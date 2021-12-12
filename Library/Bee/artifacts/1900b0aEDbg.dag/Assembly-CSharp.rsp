@@ -418,6 +418,8 @@
 "Assets/EscapeRoom/Scripts/NumpadLogic.cs"
 "Assets/EscapeRoom/Scripts/PauseMenuLogic.cs"
 "Assets/EscapeRoom/Scripts/PhysicalButtonPressed.cs"
+"Assets/EscapeRoom/Scripts/PointingGestureAction.cs"
+"Assets/EscapeRoom/Scripts/SwitchLaserPointerBehaviour.cs"
 "Assets/Oculus/Avatar/Samples/AvatarGallery/Scripts/OvrAvatarTestDriver.cs"
 "Assets/Oculus/Avatar/Samples/GripPoses/Scripts/PoseEditHelper.cs"
 "Assets/Oculus/Avatar/Samples/LocalAvatar/Scripts/GazeTargetSpawner.cs"
